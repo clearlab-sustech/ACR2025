@@ -38,27 +38,26 @@ https://clearlab-sustech.github.io/ACR2025/
 
 # Tentative Outline
 
-1. **Advanced Kinematics and Dynamics**
-   - Rigid body configuration and velocity
-   - Exponential coordinate of rigid body motion
-   - Kinematics of open chain
-   - Velocity Kinematics
+- **Advanced Kinematics and Dynamics**
+  - Rigid body configuration and velocity
+  - Exponential coordinate of rigid body motion
+  - Kinematics of open chain
+  - Velocity Kinematics
 
-2. **Reinforcement learning**
+- **Reinforcement learning**
    - Probability review
-   - Markov Decision Process
+   - Markov Decision ProcessS
    - Basics of Neural Networks
    - Value estimation via sampling
    - Introduction to Policy gradient
    - Policy gradient with baseline
    - Advanced policy gradient
 
-4. **Advanced topics (if time permits)**
+- **Advanced topics (if time permits)**
    - **Transformer**
    - **robot dynamics**
 
 # Prerequisite
-
 - Undergraduate introductory robotics course
   - Solid background in rigid body kinematics and dynamics in the level described in standard beginner textbooks, such as:
     - “Introduction to Robotics: Mechanics and Control”, J. Craig

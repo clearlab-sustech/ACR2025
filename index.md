@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Home
+title: SDM5008 (F25) Advanced Control for Robotics
 ---
 <!-- website address
 https://clearlab-sustech.github.io/ACR2025/
 -->
-# SDM5008 (F25) Advanced Control for Robotics
 
-## Course Objectives
+# Course Objectives
 
 - Develop a solid foundation in robot modeling, control and learning to conduct cutting edge research in robotics
  - **Math**: Probability, optimization, stochastic systems
@@ -17,7 +16,7 @@ https://clearlab-sustech.github.io/ACR2025/
 
 ----
 
-## Course Information
+# Course Information
 
 - **Course ID**: SDM5008
 - **Course Name**: Advanced Control for Robotics
@@ -30,7 +29,7 @@ https://clearlab-sustech.github.io/ACR2025/
 
 ----
 
-## Target Students  
+# Target Students  
 
 - PhD students in robotics with a strong need of advanced control
 - Master students in control and robotics with a strong desire to pursue PhD degree
@@ -38,7 +37,7 @@ https://clearlab-sustech.github.io/ACR2025/
 
 ----
 
-## Tentative Outline
+# Tentative Outline
 
 1. **Advanced Kinematics and Dynamics**
    1. Rigid body configuration and velocity
@@ -65,7 +64,7 @@ https://clearlab-sustech.github.io/ACR2025/
    1. **Transformer**
    2. **robot dynamics**
 
-## Prerequisite
+# Prerequisite
 
 - Undergraduate introductory robotics course
   - Solid background in rigid body kinematics and dynamics in the level described in standard beginner textbooks, such as:
@@ -75,22 +74,22 @@ https://clearlab-sustech.github.io/ACR2025/
 - Maturity in math, solid understanding in linear algebra (see tutorial notes in linear algebra), good at abstract reasoning
 - Programming skills: **Python**
 
-## Lecture Notes
+# Lecture Notes
 
 
 
-## Homework
+# Homework
 
 
 
-## MISC
+# MISC
 
 
 
-## Background Reading
+# Background Reading
 
 
 
-## Reference
+# Reference
 
 

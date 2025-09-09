@@ -11,8 +11,7 @@ https://clearlab-sustech.github.io/ACR2025/
 - Develop a solid foundation in robot modeling, control and learning to conduct cutting edge research in robotics
  - **Math**: Probability, optimization, stochastic systems
  - **Modeling**: Advanced rigid body kinematics and dynamics
- - **Control**: Differential IK, Model predictive control
- - **Learning**: MDP, Deep Reinforcement learning
+ - **Learning based control**: NN training, MDP, Deep Reinforcement learning
 
 ----
 
@@ -40,29 +39,23 @@ https://clearlab-sustech.github.io/ACR2025/
 # Tentative Outline
 
 1. **Advanced Kinematics and Dynamics**
-   1. Rigid body configuration and velocity
-   2. Exponential coordinate of rigid body motion
-   3. Kinematics of open chain
-   4. Velocity Kinematics
+   - Rigid body configuration and velocity
+   - Exponential coordinate of rigid body motion
+   - Kinematics of open chain
+   - Velocity Kinematics
 
-2. **Basic Robot Control**
-   1. Basics of optimization
-   2. Differential IK
-   3. Introductory optimal control
-   4. Model Predictive Control
-
-3. **Reinforcement learning**
-   1. Probability review
-   2. Markov Decision Process
-   3. Basics of Neural Networks
-   4. Value estimation via sampling
-   5. Introduction to Policy gradient
-   6. Policy gradient with baseline
-   7. Advanced policy gradient
+2. **Reinforcement learning**
+   - Probability review
+   - Markov Decision Process
+   - Basics of Neural Networks
+   - Value estimation via sampling
+   - Introduction to Policy gradient
+   - Policy gradient with baseline
+   - Advanced policy gradient
 
 4. **Advanced topics (if time permits)**
-   1. **Transformer**
-   2. **robot dynamics**
+   - **Transformer**
+   - **robot dynamics**
 
 # Prerequisite
 
@@ -91,5 +84,11 @@ https://clearlab-sustech.github.io/ACR2025/
 
 
 # Reference
+- [“Mathematical introduction to robotic manipulation”, R. Murray, Z. Li, S. Sastry](https://www.cds.caltech.edu/~murray/books/MLS/pdf/mls94-complete.pdf)
+- ["Modern Robotics: Mechanics, Planning, and Control", Kevin M. Lynch and Frank C. Park, Cambridge University Press, 2017, ISBN 9781107156302](https://hades.mech.northwestern.edu/index.php/Modern_Robotics)
+- [“Rigid Body Dynamics Algorithms”, Roy Featherston](https://www.springer.com/gp/book/9780387743141)
+- https://spinningup.openai.com/en/latest/
+- [A Practical Introduction to Deep Reinforcement Learning](https://arxiv.org/abs/2505.08295)
 
+- Lecture notes, and papers distributed in class
 

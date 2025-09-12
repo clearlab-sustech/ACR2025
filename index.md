@@ -71,11 +71,11 @@ https://clearlab-sustech.github.io/ACR2025/
 
 
 # Homework
-
+- [Homework 1](./homework/hw1_F2.pdf)
 
 
 # MISC
-
+- [Python Tutorial - Numpy and Matplotlib](./misc/Tutorial_Python_Numpy_and_Matplotlib.ipynb) (numerous Python resources are available online, you are expected to learn more by yourself)
 
 
 # Background Reading

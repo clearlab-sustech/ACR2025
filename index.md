@@ -71,7 +71,7 @@ https://clearlab-sustech.github.io/ACR2025/
 
 
 # Homework
-- [Homework 1](./homework/hw1_F25.pdf)
+- [Homework 1](./homework/hw1_F25.pdf) (due Sep 19)
 
 
 # MISC

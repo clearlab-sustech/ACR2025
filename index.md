@@ -68,7 +68,18 @@ https://clearlab-sustech.github.io/ACR2025/
 
 # Lecture Notes
 
+- [LN1_RigidBodyMotion](./LectureNotes/LN1_RigidBodyMotion.pdf) 
+- [LN2_RigidBodyOperation](./LectureNotes/LN2_RigidBodyOperation.pdf) 
+- [LN3_ExpCoordinate](./LectureNotes/LN3_ExpCoordinate.pdf) 
+- [LN4_InstantaneousVelocityofMovingFrames](./LectureNotes/LN4_InstantaneousVelocityofMovingFrames.pdf) 
 
+
+
+# Tutorials
+
+[Isaac Sim & Isaac Lab Tutorial](https://iyrna6v2lz.feishu.cn/wiki/Zjhbw2ieAibcLMkZkaBcN5FxnaH) 
+
+[Video](https://www.bilibili.com/video/BV1SwWpzXED2/?spm_id_from=333.1387.upload.video_card.click&vd_source=d7d35f4fe0980d1cdd7b6b2b056c9f50) 
 
 # Homework
 - [Homework 1](./homework/hw1_F25.pdf) (due Sep 19)

@@ -72,6 +72,13 @@ https://clearlab-sustech.github.io/ACR2025/
 - [LN2_RigidBodyOperation](./LectureNotes/LN2_RigidBodyOperation.pdf) 
 - [LN3_ExpCoordinate](./LectureNotes/LN3_ExpCoordinate.pdf) 
 - [LN4_InstantaneousVelocityofMovingFrames](./LectureNotes/LN4_InstantaneousVelocityofMovingFrames.pdf) 
+- [LN5_kinematics](./LectureNotes/LN5_kinematics.pdf) 
+- [LN6_VelocityKinematics](./LectureNotes/LN6_VelocityKinematics.pdf) 
+- [LN7_RigidBodyDynamics](./LectureNotes/LN7_RigidBodyDynamics.pdf) 
+- [LN8_ProbabilityReview](./LectureNotes/LN8_ProbabilityReview.pdf) 
+- [Lec9_MDP](./LectureNotes/Lec9_MDP.pdf) 
+- [Lec10_PolicyGradient](./LectureNotes/Lec_PolicyGradient.pdf) 
+
 
 
 
@@ -84,6 +91,8 @@ https://clearlab-sustech.github.io/ACR2025/
 # Homework
 - [Homework 1](./homework/hw1_F25.pdf) (due Sep 19)
 - [Homework 2](./homework/hw2_F25.pdf) (due Oct 14)
+- [Homework 3](./homework/hw3_F25.pdf) (due Nov 2)
+- [Homework 4](./homework/hw4_F25.pdf) (due Nov 17)
 
 
 # MISC
